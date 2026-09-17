@@ -23,4 +23,3 @@ python main.py
 ```
 
 Made by Sania @ VIT Bhopal
-```
