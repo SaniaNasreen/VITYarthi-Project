@@ -72,7 +72,7 @@ def main():
 
         elif choice == '6':
             print("\nThank you for using the system!")
-            print("Made by Rajat - VIT Bhopal ❤️")
+            print("Made by Sania - VIT Bhopal ❤️")
             time.sleep(2)
             break
 
