@@ -3,10 +3,10 @@ Student Grade Management System
 (A Simple Python Project That Actually Works!)
 
 Submitted By
-Name: Rajat
-Course: M.TECH INT. DATA SCIENCE
+Name: Sania Nasreen
+Course: Computer Vision
 College: VIT Bhopal
-Year: 2025–2030
+Year: 2026-27
 
 Hey! Here's What I Built
 I made a small but super useful console-based tool called Student Grade Management System. Imagine a mini version of what your class teacher uses to keep track of marks – but I coded it from scratch using only Python!
@@ -52,7 +52,7 @@ This tiny function instantly tells if someone got an A+ or needs to study harder
 What It Looks Like When Running
 text============================================================
            STUDENT GRADE MANAGEMENT SYSTEM               
-         Developed by Rajat - VIT Bhopal                
+         Developed by Sania - VIT Bhopal                
 ============================================================
 
 1. Add Student
@@ -85,5 +85,5 @@ Final Words
 This was my first proper Python project that feels like a real mini-application. It’s simple, but it works perfectly, saves data, and looks neat. I’m really proud of it!
 Thank you for checking it out!
 Made with lots of coffee and zero external libraries
-Rajat
+Sania
 VIT Bhopal 
